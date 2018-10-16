@@ -1,0 +1,2 @@
+# score_calculator_icfpc2018
+Seleniumでスコア計算に使っていたツール
